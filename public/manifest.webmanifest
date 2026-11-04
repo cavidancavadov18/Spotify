@@ -1,0 +1,17 @@
+{
+  "name": "Spotify – Web Player",
+  "short_name": "Spotify",
+  "description": "Spotify Web Player clone",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
