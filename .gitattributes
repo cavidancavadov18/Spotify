@@ -1,0 +1,11 @@
+# Primary language: Python backend
+*.py linguist-detectable=true
+
+# Frontend UI is not the backend — hide from language bar
+src/** linguist-vendored
+*.css linguist-vendored
+*.jsx linguist-vendored
+*.js linguist-vendored
+vite.config.js linguist-vendored
+*.ps1 linguist-vendored
+package-lock.json linguist-generated
