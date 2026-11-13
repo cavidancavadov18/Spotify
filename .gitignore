@@ -15,6 +15,9 @@ dist-ssr
 .env.*
 !.env.example
 recover-icons.txt
+__pycache__/
+*.py[cod]
+.Python
 
 # Editor directories and files
 .vscode/*
